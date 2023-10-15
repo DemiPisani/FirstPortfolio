@@ -29,10 +29,13 @@ h1 {
   font-size; 25px;
 }
 
+/* format the image*/
 img {
   width: 200px;
   border-radius: 30px;
 }
+
+/* choose design for most of the text*/
 main {
   color: #6B6054;
   font-family: sans-serif;
@@ -40,11 +43,11 @@ main {
   font-size: 16px;
 
 }
-
+/* style the line*/
 hr {
   color:#C3DAC3;
 }
-
+/*style the footer*/
 footer {
   text-align: center;
   font-family: sans-serif;
@@ -54,7 +57,7 @@ footer {
 }
 
 
-/* pseudos*/
+/* pseudos to style the links*/
 
 
 a:link {color:#586A6A ;}
